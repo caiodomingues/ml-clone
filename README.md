@@ -1,6 +1,7 @@
 # UI Clone - Mercado Livre
 
 This project was made for study purposes, where I've tried to clone the interface from [Mercado Livre (ML)](https://www.mercadolivre.com.br/).
+You can see the result [here](https://ml-clone.vercel.app/).
 
 ## Todo
 
@@ -8,7 +9,7 @@ This project was made for study purposes, where I've tried to clone the interfac
 - [ ] Missing elements from ML
 - [ ] Use some Fake API
 
-[Open](https://ml-clone.vercel.app/)
+## About
 
 It was made following [@guilhermerodz](https://github.com/guilhermerodz) tutorial's at [@Rocketseat](https://github.com/Rocketseat), you can see the original result of the video through [this repository](https://github.com/rocketseat-content/youtube-clone-mercadolivre).
 
